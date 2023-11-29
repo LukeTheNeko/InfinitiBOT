@@ -1,3 +1,11 @@
+# 2.0.1
+
+**Adições**
+
+- Adicionado comando /meuid para ver seu próprio ID.
+- Adicionado comando /server para ver o banner e o ícone do servidor.
+- Todas Lib foram atualizadas 
+
 # 2.0.0
 
 - Um novo começo para o BOT!
@@ -26,7 +34,6 @@
 **Removidos**
 
 - Temporariamente removido o sistema de ticket
-
 
 # 1.10.0
 
